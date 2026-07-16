@@ -1,56 +1,14 @@
 {
-  "CnlangSignin": {
-    "name": "国语视界论坛签到",
-    "description": "国语视界论坛自动签到，支持随机延迟",
-    "version": "1.2",
-    "icon": "https://raw.githubusercontent.com/imaliang/MoviePilot-Plugins/main/icons/cnlang.png",
-    "author": "imaliang",
-    "level": 1,
-    "v2": true,
-    "history": {
-      "v1.2": "支持mp-v2",
-      "v1.1": "消息发送，去除链接。",
-      "v1.0": "支持国语视界论坛自动签到。"
-    }
-  },
-  "SSDForumSignin": {
-    "name": "SSDForum论坛签到",
-    "description": "SSDForum自动签到，支持随机延迟",
-    "version": "1.2",
-    "icon": "https://raw.githubusercontent.com/imaliang/MoviePilot-Plugins/main/icons/ssdforum.png",
-    "author": "imaliang",
-    "level": 1,
-    "v2": true,
-    "history": {
-      "v1.2": "支持mp-v2",
-      "v1.1": "消息发送，去除链接。",
-      "v1.0": "支持SSDForum论坛自动签到。"
-    }
-  },
-  "CustomCommandPlus": {
-    "name": "自定义命令自用版",
-    "description": "自定义执行周期执行命令并推送结果",
-    "version": "1.2",
-    "icon": "https://raw.githubusercontent.com/imaliang/MoviePilot-Plugins/main/icons/bot.png",
-    "author": "imaliang",
-    "level": 1,
-    "v2": true,
-    "history": {
-      "v1.2": "支持mp-v2",
-      "v1.0": "自定义执行周期执行命令并推送结果"
-    }
-  },
-  "FFmpegStrmThumb": {
-    "name": "FFmpegStrm缩略图",
-    "description": "TheMovieDb没有背景图片时使用FFmpeg截取strm视频文件缩略图。",
-    "version": "1.2",
-    "icon": "https://raw.githubusercontent.com/imaliang/MoviePilot-Plugins/main/icons/ffmpegstrm.png",
-    "author": "imaliang",
-    "level": 1,
-    "v2": true,
-    "history": {
-      "v1.2": "支持mp-v2",
-      "v1.0": "TheMovieDb没有背景图片时使用FFmpeg截取strm视频文件缩略图。"
+    "WeChatMenuCustom": {
+        "name": "企业微信自定义菜单栏",
+        "description": "智能时序控制，自定义企业微信应用底部菜单栏，确保启动后稳定生效不被覆盖",
+        "labels": "企业微信,菜单栏",
+        "version": "1.4.0",
+        "icon": "https://raw.githubusercontent.com/mihukewu/MoviePilot-Plugins/main/icons/bot.png",
+        "author": "mihukewu",
+        "level": 1,
+        "history": {
+            "v1.4.0": "创世版",
     }
   }
 }
