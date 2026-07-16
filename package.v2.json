@@ -1,5 +1,5 @@
 {
-    "CMSNotify": {
+    "WeChatMenuCustom": {
         "name": "企业微信自定义菜单栏",
         "description": "智能时序控制，自定义企业微信应用底部菜单栏，确保启动后稳定生效不被覆盖",
         "labels": "企业微信,菜单栏",
