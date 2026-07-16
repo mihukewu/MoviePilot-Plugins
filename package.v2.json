@@ -4,7 +4,7 @@
         "description": "智能时序控制，自定义企业微信应用底部菜单栏，确保启动后稳定生效不被覆盖",
         "labels": "企业微信,菜单栏",
         "version": "1.4.0",
-        "icon": "https://raw.githubusercontent.com/mihukewu/MoviePilot-Plugins/main/icons/cms.png",
+        "icon": "https://raw.githubusercontent.com/mihukewu/MoviePilot-Plugins/main/icons/bot.png",
         "author": "mihukewu",
         "level": 1,
         "history": {
