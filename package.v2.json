@@ -1,17 +1,14 @@
 {
     "CMSNotify": {
-        "name": "CMS通知",
-        "description": "整理完成115里的媒体后，通知CMS进行增量同步（strm生成）",
-        "labels": "消息通知,媒体库,STRM",
-        "version": "0.5",
-        "icon": "https://raw.githubusercontent.com/imaliang/MoviePilot-Plugins/main/icons/cms.png",
-        "author": "imaliang",
+        "name": "企业微信自定义菜单栏",
+        "description": "智能时序控制，自定义企业微信应用底部菜单栏，确保启动后稳定生效不被覆盖",
+        "labels": "企业微信,菜单栏",
+        "version": "1.4.0",
+        "icon": "https://raw.githubusercontent.com/mihukewu/MoviePilot-Plugins/main/icons/cms.png",
+        "author": "mihukewu",
         "level": 1,
         "history": {
-            "v0.5": "支持CloudDrive储存",
-            "v0.4": "支持115网盘Plus",
-            "v0.3": "支持通知cms进行自动整理",
-            "v0.2": "整理完成115里的媒体后，通知CMS进行增量同步（strm生成）"
+            "v1.4.0": "创世版",
         }
     }
 }
