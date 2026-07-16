@@ -7,6 +7,7 @@
         "icon": "https://raw.githubusercontent.com/mihukewu/MoviePilot-Plugins/main/icons/bot.png",
         "author": "mihukewu",
         "level": 2,
+        "v2": true,
         "history": {
             "v1.4.0": "创世版",
         }
