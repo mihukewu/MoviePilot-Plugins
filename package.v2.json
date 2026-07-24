@@ -1,11 +1,13 @@
-{"name": "企业微信自定义菜单栏",
-      "description": "企业微信、菜单栏。",
-      "labels": "企业微信",
-      "version": "1.4.0",
-      "icon": "bot.png",
-      "author": "mihukewu",
-      "level": 2,
-      "history": {
-          "v1.4.0": "救救孩子吧",
+{
+    "wechatmenucustom": {
+        "name": "企业微信自定义菜单栏",
+        "description": "企业微信、菜单栏",
+        "version": "1.35",
+        "icon": "bot.png",
+        "author": "mihukewu",
+        "level": 1,
+        "history": {
+            "v1.35": "套用",
+        }
     }
-  }
+}
